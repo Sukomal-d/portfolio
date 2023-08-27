@@ -1,3 +1,18 @@
-h1{
-    color : red;
-}
+table, th, tr,td {
+    border:1px solid black;
+    
+  }
+  .heading,th {
+    color:black;
+    font-weight:bold;
+    
+  }
+  .content,td {
+    color:black;
+    
+  }
+  html{
+    font-family:san-serif;
+  }
+  
+  
